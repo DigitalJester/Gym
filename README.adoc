@@ -1,0 +1,4 @@
+= Gym
+
+== Purpose
+This is a repository containing gym training programs. The goal of this project is to collect and automatically recommend workout programming
